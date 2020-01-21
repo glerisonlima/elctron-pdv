@@ -1,0 +1,10 @@
+.sidebar{
+    width: 200px;
+    height: 100%;
+    background-color: transparent;
+    margin-right: 15px;    
+}
+
+.sidebar .menuItem li{
+    text-decoration: none;
+}
